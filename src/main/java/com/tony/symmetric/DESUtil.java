@@ -1,4 +1,4 @@
-package com.tony.symmetricalencryption;
+package com.tony.symmetric;
 
 import java.io.IOException;
 
